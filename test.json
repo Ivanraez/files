@@ -1,10 +1,13 @@
 {
     "nik":{
         "keys":[
-        "y","r"  
+            "y","r"  
         ],
         "subs":[
-        "why","are"
+            "why","are"
+        ],
+        "dropList":[
+            "any primers","skychair","skymaya","palms sweaty","knees weak","socials bois","the protagonist is a young woman","nao"
         ]
     }
 }
