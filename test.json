@@ -1,1 +1,10 @@
-{"nik":{"keys":["y","r"],"subs":["why","are"]}}
+{
+    "nik":{
+        "keys":[
+        "y","r"  
+        ],
+        "subs":[
+        "why","are"
+        ]
+    }
+}
